@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBPackageNameHeaderCell</string>
+			<key>packageIdentifier</key>
+			<string>me.nebula.betterblock</string>
+			<key>titleColor</key>
+			<string>#17ecc6</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Install</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>dotprofile:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>1. Install the AdBlocker profile here</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string></string>
+			<key>detail</key>
+			<string>MCProfileListController</string>
+			<key>defaults</key>
+			<string>me.nebula.betterblockprefs</string>
+			<key>label</key>
+			<string>2. Click me and finish installing</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSStaticTextCell</string>
+			<key>label</key>
+			<string>3. Enjoy an Ad free web experience!</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string></string>
+			<key>detail</key>
+			<string>DNSSettingsController</string>
+			<key>defaults</key>
+			<string>me.nebula.betterblockprefs</string>
+			<key>label</key>
+			<string>Enable/Disable AdBlocker</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>dohprofile:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>(Re)install Alternate AdBlocker</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>BetterBlock by Nebula - Enjoy!</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>big</key>
+			<true/>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>height</key>
+			<integer>56</integer>
+			<key>label</key>
+			<string>Nebula</string>
+			<key>user</key>
+			<string>itsnebulalol</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>BetterBlock</string>
+</dict>
+</plist>
