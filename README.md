@@ -31,3 +31,4 @@ Package Name | Source | Version | Maintainer
 
 # Credits
 - [Donato Fiore](https://github.com/donato-fiore) for part of the preference bundle
+- [Karen](https://github.com/akemin-dayo) for the on install popup

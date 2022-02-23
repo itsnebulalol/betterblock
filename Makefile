@@ -15,4 +15,11 @@ BetterBlock_EXTRA_FRAMEWORKS += Cephei
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 SUBPROJECTS += betterblockprefs
+SUBPROJECTS += on-install
 include $(THEOS_MAKE_PATH)/aggregate.mk
+
+before-install::
+	install.exec "touch /var/mobile/me.nebula.betterblock.no-postinst-notification"
+
+after-install::
+	install.exec "rm -v /var/mobile/me.nebula.betterblock.no-postinst-notification"
