@@ -26,7 +26,8 @@ Here are all the places that you can install BetterBlock from:
 
 Package Name | Source | Version | Maintainer
 ---|---|---|---
-[BetterBlock](https://repo.packix.com/package/me.nebula.elate) | [Nebula's Repo](https://apt.itsnebula.net/) | 1.0 | [Nebula](https://github.com/itsnebulalol)
+[BetterBlock](https://havoc.app/package/betterblock) | [Havoc](https://havoc.app/) | 1.0 | [Nebula](https://github.com/itsnebulalol)
+[BetterBlock](https://apt.itsnebula.net/depictions/me.nebula.betterblock) | [Nebula's Repo](https://apt.itsnebula.net/) | 1.1 | [Nebula](https://github.com/itsnebulalol)
 [betterblock-git](https://https://github.com/itsnebulalol/betterblock) | [GitHub](https://github.com/itsnebulalol/betterblock) | Always Latest | [Nebula](https://github.com/itsnebulalol)
 
 # Credits
