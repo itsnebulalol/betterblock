@@ -17,7 +17,7 @@
 </p>-->
 
 # Build
-1. Install [TheOS](https://theos.dev/docs/installation)
+1. Install [Theos](https://theos.dev/docs/installation)
 2. Run `make clean package`
 3. Your compiled package is in `packages/`
 
