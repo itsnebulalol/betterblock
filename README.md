@@ -28,7 +28,7 @@ Package Name | Source | Version | Maintainer
 ---|---|---|---
 [BetterBlock](https://havoc.app/package/betterblock) | [Havoc](https://havoc.app/) | 1.2 | [Nebula](https://github.com/itsnebulalol)
 [BetterBlock](https://apt.itsnebula.net/depictions/me.nebula.betterblock) | [Nebula's Repo](https://apt.itsnebula.net/) | 1.2 | [Nebula](https://github.com/itsnebulalol)
-[betterblock-git](https://https://github.com/itsnebulalol/betterblock) | [GitHub](https://github.com/itsnebulalol/betterblock) | Always Latest | [Nebula](https://github.com/itsnebulalol)
+[betterblock-git](https://github.com/itsnebulalol/betterblock) | [GitHub](https://github.com/itsnebulalol/betterblock) | Always Latest | [Nebula](https://github.com/itsnebulalol)
 
 # Credits
 - [Donato Fiore](https://github.com/donato-fiore) for part of the preference bundle
