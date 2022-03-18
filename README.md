@@ -1,3 +1,6 @@
+# BetterBlock has been discontinued
+https://twitter.com/itsnebulalol/status/1504820924486496256?s=21
+
 <h1 align="center">BetterBlock</h1>
 <h3 align="center">BetterBlock is the #1 AdBlocking solution for iOS. BetterBlock has auto-updates, no bootlooping (cough cough MYbloXX), easy setup, no battery drain, no slowdowns, and 100% blocking on multiple tests.</h3>
 <!--<p align="center"> 
